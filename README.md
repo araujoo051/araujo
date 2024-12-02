@@ -2,7 +2,7 @@
 
 :computer: I'm a student of programmation, with focus on front-end part.
 
-:brazil_flag: I’m from Brazil.
+:brazil: I’m from Brazil.
 
 :books: I’m currently learning everything.
 
