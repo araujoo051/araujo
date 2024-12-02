@@ -1,6 +1,12 @@
 # Bem vindo ao perfil do Gabriel Araujo
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+:computer: I'm a student of programmation, with focus on front-end part.
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2025 Goals: Create new projects and use everything that i learned.
 
 <div>
 <a href="https://github.com/araujoo051">
